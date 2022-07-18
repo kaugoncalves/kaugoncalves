@@ -38,20 +38,13 @@
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  <a href="github.com/kaugoncalves" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/kaugoncalves/kaugoncalves?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/kaugoncalves" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/kaugoncalves/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/kaugoncalves" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/kaugoncalves/kaugoncalves?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/kaugoncalves" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/kaugoncalves/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
+  - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :trophy: `ACPC` Finalist 2021
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :nerd_face: Always `learning new things`
  </p>
 </div>
 </details>
