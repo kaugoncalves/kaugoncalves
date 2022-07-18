@@ -13,7 +13,7 @@
   <summary>☎️ Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">😎 You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 Global</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
 </div>
