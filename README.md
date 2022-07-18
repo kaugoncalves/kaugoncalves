@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>☎️ Contact Me</summary>
+  <summary><h3> ☎️ Contact Me </h3> </summary>
 <div>
   <samp>
     <h2 align="center">😎 You can reach me by:</h2>
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary>🧮 About</summary>
+  <summary> <h3> 🧮 About </h3></summary>
 <div>
 <h2 align="center">🧮 About Me</h2>
 
@@ -49,7 +49,7 @@
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary><h3>💻 GitHub Profile Stats </h3></summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary><h3> 📈 Activity Graph </h3></summary>
   <br/>
   <h2 align="center"> My current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kau's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaugoncalves&theme=react-dark&hide_border=true&area=true" /></a>
