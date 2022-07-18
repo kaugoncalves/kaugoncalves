@@ -80,6 +80,6 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kau's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=kaugoncalves&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kau's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaugoncalves&theme=react-dark&hide_border=true&area=true" /></a>
 </details>
 
