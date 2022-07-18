@@ -62,9 +62,8 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          | ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kaugoncalves&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=kaugoncalves&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaugoncalves&theme=algolia)
+          <a href="https://github.com/kaugoncalves/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaugoncalves&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="kaugoncalves :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/kaugoncalves/">
