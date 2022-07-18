@@ -36,15 +36,13 @@
 <details>
   <summary>🧮 About</summary>
 <div>
-<h2 align="center">🧮 About this Account</h2>
+<h2 align="center">🧮 About Me</h2>
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :school: I am System analysis and development `student`
+- :technologist: I have a technical course in System analysis and development at `COTUCA`
+- :computer: I’m constantly `learning` new things and taking `courses` of all kinds
 - :student: I’m currently learning: `React` and `Angular`.
-- :thinking: I'm currently working with `Angular` on Venturus, always `Learning` open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]
-- :nerd_face: Always `learning new things`
+- :thinking: I'm currently working as a `junior developer` at `Venturus`
   
 </div>
 </details>
