@@ -69,10 +69,4 @@
   </div>    
 </details>
 
-<details>
-  <summary><h3> 📈 Activity Graph </h3></summary>
-  <br/>
-  <h2 align="center"> My current activity </h2>
-<a href="https://github.com/kaugoncalves"><img alt="kau's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaugoncalves&theme=react-dark&hide_border=true&area=true" /></a>
-</details>
 
