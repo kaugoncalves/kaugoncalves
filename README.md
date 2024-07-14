@@ -40,11 +40,11 @@
 <div>
 <h2 align="center">🧮 About Me</h2>
 
-- :school: I am System analysis and development `student`
-- :technologist: I have a technical course in System analysis and development at `COTUCA`
-- :computer: I’m constantly `learning` new things and taking `courses` of all kinds
-- :student: I’m currently learning: `React` and `Angular`.
-- :thinking: I'm currently working as a `junior developer` at `Venturus`
+- :school: I am a System Analysis and Development `student`.
+- :technologist: I have completed a technical course in System Analysis and Development at `COTUCA`.
+- :computer: Continuously `learning` new things and taking various `courses`.
+- :student: Currently focused on: `Go` and `Docker`.
+- :thinking: Working as a `junior developer` at `Venturus`.
 - :computer: If you want to check out some [Arduino projects](https://www.tinkercad.com/users/c5AWNu60heW-kauan-santos?category=circuits). (you may have to login to see the projects)
   
 </div>
