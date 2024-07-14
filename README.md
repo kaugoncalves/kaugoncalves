@@ -4,9 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="https://kaugoncalves.github.io/kaugoncalves/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  ![snake animation](https://github.com/kaugoncalves/kaugoncalves/blob/output/github-contribution-grid-snake2.svg)
+
 </div>
 
 <details>
