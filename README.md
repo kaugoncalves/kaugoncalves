@@ -4,7 +4,8 @@
 </div>
 
 <div align="center">
-(https://github.com/kaugoncalves/kaugoncalves/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/kaugoncalves/kaugoncalves/blob/output/github-contribution-grid-snake2.svg)
+
 </div>
 
 <details>
