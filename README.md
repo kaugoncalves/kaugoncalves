@@ -43,7 +43,7 @@
 - :school: I am a System Analysis and Development `student`.
 - :technologist: I have completed a technical course in System Analysis and Development at `COTUCA`.
 - :computer: Continuously `learning` new things and taking various `courses`.
-- :student: Currently focused on: `Go` and `Docker`.
+- :student: Currently focused on: `Go`, `Docker` and `Java`.
 - :thinking: Working as a `junior developer` at `Venturus`.
 - :computer: If you want to check out some [Arduino projects](https://www.tinkercad.com/users/c5AWNu60heW-kauan-santos?category=circuits). (you may have to login to see the projects)
   
