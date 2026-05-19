@@ -3,13 +3,6 @@
 <h4 align="center"  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Junior+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a></h4>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaugoncalves/kaugoncalves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaugoncalves/kaugoncalves/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaugoncalves/kaugoncalves/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 
 <details>
   <summary><h3> ☎️ Contact Me </h3> </summary>
@@ -40,10 +33,10 @@
 <div>
 <h2 align="center">🧮 About Me</h2>
 
-- :school: I am a System Analysis and Development `student`.
+- :school: I am a Software engineer.
 - :technologist: I have completed a technical course in System Analysis and Development at `COTUCA`.
 - :computer: Continuously `learning` new things and taking various `courses`.
-- :student: Currently focused on: `Go`, `Docker` and `Java`.
+- :student: Currently focused on: `React` and `Angular`.
 - :thinking: Working as a `junior developer` at `Venturus`.
 - :computer: If you want to check out some [Arduino projects](https://www.tinkercad.com/users/c5AWNu60heW?category=circuits&type=circuits). (you may have to login to see the projects)
   
